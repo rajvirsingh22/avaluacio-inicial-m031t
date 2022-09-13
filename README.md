@@ -7,16 +7,16 @@
 
 1. Quin dels tres següents llenguatges de programació està més orientat a desenvolupar aplicacions web **empresarials**?
 
-    a- C/C++
+    a- C/C++ Este
 
     b- php
 
-    c- Java
+    c- Java Este
 
 2. Has programat abans de començar els estudis de DAW? On? Quant de temps?
 
     Resposta: 
-    
+    Si antes he programado una pagina web como amazon y un juego con HTML CSS JAVASCRIPT
     
     -
 
@@ -24,7 +24,7 @@
 3. Què és compilar un programa?
 
     Resposta:
-    
+    Compilar es transformar un programa de computadora escrito en un idioma en un programa equivalente en otro formato.
     
     -
 
@@ -37,12 +37,12 @@
 
 5. Quins llenguatges de programació has fet servir?
 
-    Resposta: 
+    Resposta: HTML JAVASCRIPT CSS
 
 
 6. Quina diferència hi ha entre un lleguatge de programació d’alt nivell i un de baix nivell?
 
-    Resposta: 
+    Resposta: Uso de lenguajes de alto nivel de un compilador para su traducción al código máquina. Lenguaje de bajo nivel un ensamblador para traducir directamente el     lenguaje.
 
 
     -
@@ -72,10 +72,12 @@
     -
 
 9. Feu un programa, amb el llenguatge de programació que vulgueu, que calculi l’àrea d’un quadrat i mostri el resultat per pantalla.
+no me acuerdo
 
     (Escriu la resposta al darrere del full)
 
 9. Feu un programa (amb el llenguatge de programació que vulgueu) que, donat un número qualsevol, imprimeixi la seva taula de multiplicar.
+no me acuerdo
 
     (Escriu la resposta al darrere del full)
 
@@ -97,7 +99,7 @@ public class Vehicle{
 }
 ```
 
-    a - null
+    a - null ESTE
     b - 0
     c - Hi ha un error de compilació a la línia 7
     d - La línia 8 genera un error d'execució
